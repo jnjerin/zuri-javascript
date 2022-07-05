@@ -1,11 +1,5 @@
 //build a basic arithmetic calculator without a frontend
-/*enter num1, enter num2, select operator, result =
-create varaibles num1, num2 that accepts user input
-create operator input prompt
-convert vars to float
-create operator functions
-print output with result
-*/
+
 
 //Create operator input
 const operator = prompt('Select the operator : (+ , - , * or /)');
